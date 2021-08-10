@@ -1,0 +1,30 @@
+h1{
+    margin:5px 100px;
+    color:olive;
+}
+h2{
+    color: maroon;
+}
+h3{
+    color:darkred;
+}
+img{
+    width: 400px;
+    height: 200px;
+    margin: 0px auto;
+}
+
+.list{
+    margin:50px 100px;
+    width: 200px;
+}
+.container{
+    background-color:lightgray;
+    display:flex;
+    flex-direction: column;
+    max-width: 900px;
+    margin:50px 100px;
+    text-align: center;
+    padding: 50px 100px;
+    /* border: lightslategray 2px solid; */
+}
